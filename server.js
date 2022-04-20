@@ -1,6 +1,6 @@
 "use strict";
 
-const app = require("./api.js");
+const app = require("./index.js");
 
 require("greenlock-express")
     .init({
